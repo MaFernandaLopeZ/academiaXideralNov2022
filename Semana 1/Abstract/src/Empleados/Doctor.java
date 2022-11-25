@@ -2,10 +2,10 @@ package Empleados;
 
 public class Doctor extends Empleados {
 
-	public Doctor(String nombre, double sueldo_mensual, int dias_laborados) {
-	//public Doctor(String nombre, int horas, double sueldo_mensual, int dias_laborados) {
-		//super(nombre, horas, sueldo_mensual, dias_laborados);
-		super(nombre, sueldo_mensual, dias_laborados);
+	static String rol = "Doctor";
+	
+	public Doctor(String nombre, double sueldo_mensual, int dias_laborados, String especialidad) {
+		super(nombre, sueldo_mensual, dias_laborados, especialidad, rol);
 	}
 	
 	@Override
@@ -15,7 +15,7 @@ public class Doctor extends Empleados {
 	
 	@Override
 	public String toString() {
-		return "Datos empleado: \nNombre:"+nombre+"\nRol: Doctor \nSueldo mensual: "+sueldo_mensual+"\nDias laborados: "+dias_laborados;
-	}
+		return "Datos administrativos: \nEspecialidad:"+especialidad+"\nSueldo mensual: "+sueldo_mensual+"\nDias laborados: "+dias_laborados;
+	}	
 	
 }
