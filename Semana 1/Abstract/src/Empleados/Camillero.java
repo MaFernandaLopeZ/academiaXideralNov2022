@@ -1,8 +1,8 @@
 package Empleados;
 
-public class Enfermera extends Empleados {
-	
-	public Enfermera(String nombre, double sueldo_mensual, int dias_laborados, String especialidad) {
+public class Camillero extends Empleados {
+
+	public Camillero(String nombre, double sueldo_mensual, int dias_laborados, String especialidad) {
 		super(nombre, sueldo_mensual, dias_laborados, especialidad);
 	}
 	
@@ -14,6 +14,6 @@ public class Enfermera extends Empleados {
 	@Override
 	public String toString() {
 		return "Datos administrativos: \nEspecialidad:"+especialidad+"\nSueldo mensual: "+sueldo_mensual+"\nDias laborados: "+dias_laborados;
-	}	
+	}
 	
 }

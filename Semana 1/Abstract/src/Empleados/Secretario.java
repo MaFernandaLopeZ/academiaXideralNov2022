@@ -1,8 +1,8 @@
 package Empleados;
 
-public class Enfermera extends Empleados {
-	
-	public Enfermera(String nombre, double sueldo_mensual, int dias_laborados, String especialidad) {
+public class Secretario extends Empleados {
+
+	public Secretario(String nombre, double sueldo_mensual, int dias_laborados, String especialidad) {
 		super(nombre, sueldo_mensual, dias_laborados, especialidad);
 	}
 	
