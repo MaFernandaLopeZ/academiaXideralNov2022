@@ -26,7 +26,7 @@ _This project is inside the folder Abstract_
 
 _This project is inside the Interface folder_
 
-[Go to project] (https://github.com/MaFernandaLopeZ/academiaXideralNov2022/tree/main/Semana%201/Interface/src/com)
+[Go to project](https://github.com/MaFernandaLopeZ/academiaXideralNov2022/tree/main/Semana%201/Interface/src/com)
 
 ## Examen 📄
 
