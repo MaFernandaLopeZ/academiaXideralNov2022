@@ -12,6 +12,10 @@ _Draw the UML diagrams for each project to get a more visual idea of how the cla
 
 ![Image text](https://github.com/MaFernandaLopeZ/academiaXideralNov2022/blob/main/Semana%201/img/abstract.png)
 
-###UML diagram for project with interface
+### UML diagram for project with interface
 
 ![Image text](https://github.com/MaFernandaLopeZ/academiaXideralNov2022/blob/main/Semana%201/img/interface.png)
+
+## Project with abstract class 🚀
+
+_This project is inside the folder Abstract_
