@@ -8,6 +8,8 @@ _The main idea is focused on a hospital payroll. So it calculates the biweekly s
 
 _Draw the UML diagrams for each project to get a more visual idea of how the classes connect to each other, and see their respective variables and methods._
 
+[Go to the documents folder](https://github.com/MaFernandaLopeZ/academiaXideralNov2022/tree/main/Semana%201/Docs_aux)
+
 ### UML diagram for project with abstract class
 
 ![Image text](https://github.com/MaFernandaLopeZ/academiaXideralNov2022/blob/main/Semana%201/img/abstract.png)
