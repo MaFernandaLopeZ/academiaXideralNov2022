@@ -26,4 +26,4 @@ _This project is inside the Interface folder_
 
 ## Examen 📄
 
-El documento [Exam - Week 1.pdf](https://github.com/MaFernandaLopeZ/academiaXideralNov2022/blob/main/Semana%201/Exam%20-%20Week%201.pdf) contiene el examen de la semana correspondiente
+The document [Exam - Week 1.pdf](https://github.com/MaFernandaLopeZ/academiaXideralNov2022/blob/main/Semana%201/Exam%20-%20Week%201.pdf) contains the exam for the corresponding week
