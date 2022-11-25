@@ -19,3 +19,7 @@ _Draw the UML diagrams for each project to get a more visual idea of how the cla
 ## Project with abstract class 🚀
 
 _This project is inside the folder Abstract_
+
+## Project with interface 🚀
+
+_This project is inside the Interface folder_
