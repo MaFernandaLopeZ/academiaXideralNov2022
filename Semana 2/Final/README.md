@@ -17,24 +17,37 @@ _It can be used in 4 scenarios._
 ### Final Primitives
 
 _By defining primitovos as final, they become a constant, since it does not change_
+
 ![Image text](https://github.com/MaFernandaLopeZ/academiaXideralNov2022/blob/main/Semana%202/Final/img/primitivo.png)
 
 ### Final objects
+
 _Reference variables can change their object, but not point to another._
+
 ![Image text](https://github.com/MaFernandaLopeZ/academiaXideralNov2022/blob/main/Semana%202/Final/img/objeto-2.png)
 
 ### Final Methods
+
 _final methods cannot be overridden._
+
 _We have a class called Grades with a final method called approve_
+
 ![Image text](https://github.com/MaFernandaLopeZ/academiaXideralNov2022/blob/main/Semana%202/Final/img/metodo1.png)
+
 _The Student class cannot override that method. The IDE throws an error._
+
 ![Image text](https://github.com/MaFernandaLopeZ/academiaXideralNov2022/blob/main/Semana%202/Final/img/metodo2.png)
 
 ### Final classes
+
 _Final classes cannot be inherited from other classes._
+
 _We have a class called Qualifications, this being a final class. We don't see any problem at the moment._
+
 ![Image text](https://github.com/MaFernandaLopeZ/academiaXideralNov2022/blob/main/Semana%202/Final/img/clase1.png)
+
 _In the student class, the IDE immediately marks the error, since they cannot be inherited._
+
 ![Image text](https://github.com/MaFernandaLopeZ/academiaXideralNov2022/blob/main/Semana%202/Final/img/clase2.png)
 
 ## Project with keyword Final 🚀
