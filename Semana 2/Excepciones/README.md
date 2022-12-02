@@ -79,4 +79,4 @@ _In Java, to catch the exceptions that may have been produced, we use the expres
 
 ## Project 📋
 
-[Go to the project] (https://github.com/MaFernandaLopeZ/academiaXideralNov2022/tree/main/Semana%202/Excepciones/src/com)
+[Go to the project](https://github.com/MaFernandaLopeZ/academiaXideralNov2022/tree/main/Semana%202/Excepciones/src/com)
