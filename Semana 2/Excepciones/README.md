@@ -10,7 +10,7 @@ _To avoid unexpected program termination, Java allows us to handle exceptions us
 
 _Exceptions and errors are represented through Java classes and organized in a hierarchy._
 
- ![Image text](https://github.com/MaFernandaLopeZ/academiaXideralNov2022/blob/main/Semana%202/Excepciones/img/2.png)
+ ![Image text](https://github.com/MaFernandaLopeZ/academiaXideralNov2022/blob/main/Semana%202/Excepciones/img/2.jpg)
 
 _The Throwable class is the superclass of all error and exception types. _
 
@@ -32,7 +32,7 @@ _Errors represent events that the programmer cannot control (for example, OutOfM
 - All errors fall into the category of unchecked , since it is generated due to lack of system resources at runtime.
 - It is outside the scope of programming, since it is not predicted.
 
- ![Image text](https://github.com/MaFernandaLopeZ/academiaXideralNov2022/blob/main/Semana%202/Excepciones/img/3.png)
+ ![Image text](https://github.com/MaFernandaLopeZ/academiaXideralNov2022/blob/main/Semana%202/Excepciones/img/3.jpg)
 
 ## MISTAKE
 
