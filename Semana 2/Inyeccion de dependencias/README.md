@@ -1,4 +1,4 @@
-# Dpendency Ijection
+# Dependency Ijection
 
 ## Diagrams 📋
 
