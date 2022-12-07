@@ -13,7 +13,7 @@ local.properties
 *.project
 */.classpath
 */.project
-META-INF/
+WEB-INF/lib/
 
 
 # External tool builders
